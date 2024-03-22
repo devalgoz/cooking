@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Frites",
+    "ingredients": [
+      "Pommes de terre",
+      "huile"
+    ],
+    "keywords": [
+      "Fast food",
+      "belgium"
+    ]
+  },
+  {
+    "name": "Pizza",
+    "ingredients": [
+      "farine",
+      "gruyère",
+      "tomate",
+      "bœuf haché"
+    ],
+    "keywords": [
+      "Fast food",
+      "Italy"
+    ]
+  },
+  {
+    "name": "lasagnes à la bolognaise",
+    "ingredients": [
+      "pâtes",
+      "gruyère",
+      "parmesan",
+      "sauce tomate",
+      "ail",
+      "bœuf haché"
+    ],
+    "keywords": [
+      "plat",
+      "Italy"
+    ]
+  },
+  {
+    "name": "Humburger",
+    "ingredients": [
+      "pain",
+      "bœuf haché",
+      "tomate",
+      "Cheddar"
+    ],
+    "keywords": [
+      "Fast food",
+      "Usa"
+    ]
+  }
+]

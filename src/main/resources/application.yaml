@@ -1,0 +1,12 @@
+server:
+  ssl:
+    enabled: true
+    key-store: classpath:keystore.p12
+    key-store-password: secret
+    key-alias: root
+    key-store-type: PKCS12
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
